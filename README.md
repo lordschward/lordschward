@@ -1,4 +1,3 @@
- <a href=#><img src="schwardxx.svg"></a>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852615813684265050?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852615813684265050)
@@ -17,10 +16,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordschward&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordschward&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+ <a href=#><img src="schwardxx.svg"></a>
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lordschward&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
