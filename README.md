@@ -1,7 +1,7 @@
  <a href=#><img src="schwardxx.svg"></a>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852615813684265050)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852615813684265050?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852615813684265050)
 
 [![schward](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsqarlex%2F&count_bg=%233897f1&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sqarlex/)
 
