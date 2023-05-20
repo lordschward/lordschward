@@ -1,5 +1,4 @@
-# 💫 About Me:
-Şu anda GitHub platformu üzerinden kendimi geliştirmeye çalışıyorum.
+
 
 
 ## 🌐 Socials:
